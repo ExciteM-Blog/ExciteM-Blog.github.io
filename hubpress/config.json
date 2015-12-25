@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "ExciteM-Blog",
-    "repositoryName": "ExciteM-Blog.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"ExciteM-Blog","repositoryName":"ExciteM-Blog.github.io","branch":"master","delay":"2000"},"site":{"title":"ExciteM Blog","description":"Providing updates from the ExciteM team","logo":"https://excitem.com/images/logo_t_2b.png","postsPerPage":"10","googleAnalytics":"UA-71758532-1","url":"https://ExciteM-Blog.github.io"},"socialnetwork":{"email":"support@excitem.tv"},"theme":{"name":"Casper","url":"//ExciteM-Blog.github.io/themes/Casper"}}
